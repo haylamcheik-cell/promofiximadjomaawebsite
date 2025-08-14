@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as r,a2 as n}from"./iK_fm6DB.js";const t={};function a(e,c){return r(),s("ol",null,[n(e.$slots,"default")])}const _=Object.assign(o(t,[["render",a]]),{__name:"ProseOl"});export{_ as default};

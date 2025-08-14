@@ -1,0 +1,1 @@
+import{E as e}from"./B_Bbu5bz.js";import{u as t,c as s,b as a,o}from"./iK_fm6DB.js";const c={class:""},i={__name:"events",setup(r){return t({title:"Home Page"}),(n,_)=>(o(),s("div",c,[a(e)]))}};export{i as default};

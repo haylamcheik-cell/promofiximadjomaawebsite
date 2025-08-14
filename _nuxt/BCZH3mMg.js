@@ -1,0 +1,1 @@
+import{_ as a,c as s,o,a2 as r}from"./iK_fm6DB.js";const t={};function n(e,c){return o(),s("thead",null,[r(e.$slots,"default")])}const l=Object.assign(a(t,[["render",n]]),{__name:"ProseThead"});export{l as default};
