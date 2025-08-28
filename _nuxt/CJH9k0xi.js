@@ -1,0 +1,1 @@
+import{a0 as u,M as r,h as d,a1 as o,Y as n}from"./DPGMu-EV.js";const c=u(async t=>{let e,i;const a=r(),{$api:s}=d();if([e,i]=o(()=>a.initialize(s)),await e,i(),t.path.startsWith("/admin")&&!t.path.includes("/login")&&!a.isAuthenticated)return n("/admin/login");if(t.path==="/admin/login"&&a.isAuthenticated)return n("/admin/dashboard")});export{c as default};
