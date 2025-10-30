@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as r,a3 as c}from"./CNC7-B4v.js";const n={};function t(e,a){return r(),s("code",null,[c(e.$slots,"default")])}const l=Object.assign(o(n,[["render",t]]),{__name:"ProseCode"});export{l as default};
