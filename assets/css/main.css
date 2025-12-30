@@ -1,0 +1,9 @@
+/* assets/css/main.css */
+@import "tailwindcss";
+
+/* You can add your own custom styles here */
+/* @layer base {
+  h1 {
+    @apply text-2xl;
+  }
+} */

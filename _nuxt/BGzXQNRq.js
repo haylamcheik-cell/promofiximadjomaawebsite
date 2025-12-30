@@ -1,0 +1,1 @@
+import{u as e,c as l,a as s,o}from"./BqBcClPL.js";const c={__name:"dashboard",setup(t){return e({title:"Dashboard"}),(r,a)=>(o(),l("div",null,a[0]||(a[0]=[s("h1",{class:"text-2xl font-bold mb-6 text-black"},"Dashboard",-1),s("div",{class:"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8"},null,-1)])))}};export{c as default};
